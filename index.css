@@ -93,7 +93,8 @@ header {
 
 
 }
-.Акция{
+
+.Акция {
     color: #0c12d1;
 }
 
@@ -111,7 +112,7 @@ header {
 
 .carousel-item {
     width: 100%;
-    
+
 }
 
 .circle {
@@ -119,46 +120,89 @@ header {
     padding-left: 150px;
 }
 
-.circle h2{
+.circle h2 {
     margin-top: 100px;
     font-weight: 700;
-font-size: 50px;
-line-height: 105.3%;
-letter-spacing: 0.02em;
-text-transform: uppercase;
-color: #3C3C3C;
+    font-size: 50px;
+    line-height: 105.3%;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #3C3C3C;
 }
 
-.circle p{
+.circle p {
     font-weight: 400;
-font-size: 16px;
-line-height: 140.8%;
-letter-spacing: 0.02em;
-color: #343434
+    font-size: 16px;
+    line-height: 140.8%;
+    letter-spacing: 0.02em;
+    color: #343434
 }
 
-.circle button{
+.circle button {
     font-weight: 700;
-font-size: 12px;
-line-height: 140.8%;
-letter-spacing: 0.04em;
-color: #414141;
-padding: 15px 40px;
-border: none;
+    font-size: 12px;
+    line-height: 140.8%;
+    letter-spacing: 0.04em;
+    color: #414141;
+    padding: 15px 40px;
+    border: none;
 }
 
 
 
-.ota_div12{
+.ota_div12 {
     margin-top: 100px;
 }
 
-.take{
+.take {
     margin-top: 50px;
 }
 
-.text:hover{
+.text:hover {
     color: red;
 }
 
 
+.fa-heart {
+    padding-left: 200px;
+}
+
+.section {
+    margin-top: 60px;
+}
+
+.col-2 font-awesome {
+    font-family: 'Roboto';
+   
+    color: #000000;
+}
+
+
+
+.row ---- {
+    margin-top: 19px;
+}
+.aksiya{
+    color: #D74444;
+}
+.area{
+    display: flex;
+    align-items: center;
+}
+.watch{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.fa-instagram{
+    margin-left: 20px;
+}
+
+.navigator{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.fa-envelope{
+    margin-left: 20px;
+}
